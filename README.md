@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou a Jéssica Sobral😘
+### Olá, tudo bem? Eu sou a Jéssica Sobral 👋
 
 - 💡 Em transição de carreira
 - 💻 Estudando teste de software com automação de teste(BDD E SELENIUM) 
