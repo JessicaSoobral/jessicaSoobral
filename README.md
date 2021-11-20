@@ -4,7 +4,7 @@
 - 💻 Estudando teste de software com automação de teste (BDD E SELENIUM) 
 - ✉ Entrem em contato comigo
 
-<div align="center">
+<div>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JessicaSoobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSoobral&layout=compact&langs_count=7&theme=radical"/>
 </div>
