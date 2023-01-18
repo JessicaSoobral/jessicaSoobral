@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Eu sou a Jéssica Sobral 👋
 
-- 💡 Em transição de carreira
-- 💻 Estudando teste de software com automação de teste (BDD E SELENIUM) 
+- 💡 Analista de Testes - QA
+- 💻 Em contrução de novas habilidades
 - ✉ Entrem em contato comigo
 
 <div align="center">
