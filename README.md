@@ -4,15 +4,12 @@
 - 💻 Em contrução de novas habilidades
 - ✉ Entrem em contato comigo
 
-<div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JessicaSoobral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    
-</div>
+ Analista de testes de Software/QA e sou responsável por assegurar a qualidade do software através da análise de requisitos, elaboração de planos de teste,    execução de testes funcionais e não-funcionais, bem como na documentação e relatórios de bugs.
+
 
   <div style="display: inline_bock"><br>
   
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/373542/cypress.svg" />
     
 
   </div>
