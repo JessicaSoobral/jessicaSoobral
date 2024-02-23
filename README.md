@@ -4,7 +4,32 @@
 - 💻 Em contrução de novas habilidades
 - ✉ Entrem em contato comigo
 
- Analista de testes de Software/QA e sou responsável por assegurar a qualidade do software através da análise de requisitos, elaboração de planos de teste,    execução de testes funcionais e não-funcionais, bem como na documentação e relatórios de bugs.
+ Analista de testes de Software/QA e sou responsável por assegurar a qualidade do software através da análise de requisitos, elaboração de planos de teste, cenários de testes, execução de testes funcionais, testes automatizados com Cypress, bem como na documentação e relatórios de bugs.
+
+Hardskills: 
+
+ 🧪 Testes Manuais
+ <br>
+ 🤖 Testes Automatizados: Cypress 
+ <br>
+ 🔄 Teste de Regressão
+ <br>
+ ✅  Smoke Test
+ <br>
+ 🕵️ Testes Exploratórios
+ <br>
+ ✔️ Teste Alfa
+ <br>
+ 📊 Gestão de Testes: Jira
+ <br>
+ 💻 Conhecimento: SQL, Git, HTML e CSS
+ <br>
+ 📄 Documentação de processos: Miro e Coda
+
+Softskills: 
+
+Meu compromisso com princípios éticos, atitude positiva, proatividade e excelência no trabalho em equipe são os alicerces da minha abordagem profissional. Sou analítica, detalhista e flexível, características que me permitem superar desafios com resiliência.
+
 
  <div>
   <a href="https://www.linkedin.com/in/jessicasobral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
