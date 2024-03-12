@@ -18,7 +18,7 @@ Hardskills:
  <br>
  🕵️ Testes Exploratórios
  <br>
- ✔️ Teste Alfa
+ ✔️ Teste Aceite
  <br>
  📊 Gestão de Testes: Jira
  <br>
